@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bloosillus
+- 👋 Hi, I’m @bloosillus
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning python , c# and java
 
