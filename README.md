@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bloosillus
-- 👀 매일 지랄 ㅋㅋㅋ
-- 🌱 I’m currently learning python , c# and java
+- 👀
+- 🌱 🐢
 
 
 <!---
